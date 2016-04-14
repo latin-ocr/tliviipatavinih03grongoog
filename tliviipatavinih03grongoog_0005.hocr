@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih03grongoog_0005.png"; bbox 0 0 3175 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 1727 1083 1880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 1727 1083 1880">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 1727 1083 1880; baseline 0.007 -10"><span class='ocrx_word' id='word_1_1' title='bbox 239 1861 247 1870; x_wconf 88' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 354 1773 651 1880; x_wconf 85' lang='lat' dir='ltr'>T.L1V11</span> <span class='ocrx_word' id='word_1_3' title='bbox 704 1727 1083 1878; x_wconf 75' lang='lat' dir='ltr'><strong>PATAlel</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 451 2149 981 2226">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 451 2149 981 2226">
+     <span class='ocr_line' id='line_1_2' title="bbox 451 2149 981 2226; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 451 2149 697 2226; x_wconf 86' lang='lat' dir='ltr'><strong>OPERUM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 731 2149 981 2225; x_wconf 89' lang='lat' dir='ltr'>OMNIUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 522 2476 911 2560">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 522 2476 911 2560">
+     <span class='ocr_line' id='line_1_3' title="bbox 522 2476 911 2560; baseline 0.003 -29"><span class='ocrx_word' id='word_1_6' title='bbox 522 2476 718 2534; x_wconf 70' lang='lat' dir='ltr'><strong>vonum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 735 2479 911 2560; x_wconf 71' lang='lat' dir='ltr'><strong>mun.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1592 5200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1592 5200">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1592 5200; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1592 5200; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
